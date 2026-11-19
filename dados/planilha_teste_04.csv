@@ -1,0 +1,39 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+104001;Comercial Duas Palmeiras - TESTE 04-001;17.464.887/7190-65;61 3356-1423;contato@comercialdua.com.br;Águas Claras Norte;;Brasília;DF;Apr 3, 2025;Mariana Alves
+104002;Bazar Estrela Dourada - TESTE 04-002;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;Águas Claras Norte;72006-400;Brasília;DF;Aug 18, 2022;Mariana Alves
+104003;Casa da Limpeza Total - TESTE 04-003;87.769.453/1473-79;61 3784-7209;contato@casadalimpez.com.br;Taguatinga Sul;12.345-678;Brasília;DF;2024-01-11;Ana Souza
+104004;Mercearia Central DF - TESTE 04-004;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Taguatinga;71950-000;Brasília;DF;Feb 18, 2022;Mariana Alves
+104005;Mercado Cantinho do Sabor - TESTE 04-005;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Águas Claras;71950-000;Brasília;DF;data_invalida;Ana Souza
+104006;Loja Multi Utilidades - TESTE 04-006;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Vicente Pires;;Brasília;DF;04/08/2023;Pedro Santos
+104007;Distribuidora Horizonte Azul - TESTE 04-007;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Taguatinga Sul;;Brasília;DF;22-11-2022;Mariana Alves
+104008;Mercadinho Boa Vista - TESTE 04-008;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;Sul (Águas Claras);71926-750;Brasília;DF;2022-06-21;Ana Souza
+104009;Armarinhos Ponto Certo - TESTE 04-009;10.932.480/8613-17;(61) 3763-3522;email_invalido;Taguatinga Sul;71929-000;Brasília;DF;Dec 16, 2023;Pedro Santos
+104010;Casa de Materiais Rocha - TESTE 04-010;71.870.262/1745-96;(61) 3972-6383;contato@casademateri.com.br;Guará II;00000-000;Brasília;DF;2025-11-28;Carlos Lima
+104011;Distribuidora Horizonte Azul - TESTE 04-011;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Guará;00000-000;Brasília;DF;22-11-2022;Juliana Costa
+104012;Mercadinho Recanto Feliz - TESTE 04-012;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;guara ii;;Brasília;DF;2024-11-12;Mariana Alves
+104013;Ferragens União - TESTE 04-013;93.990.916/9985-43;61942035886;email_invalido;Guará II;72006-400;Brasília;DF;2022-07-09;Pedro Santos
+104014;Mercadinho Nossa Senhora - TESTE 04-014;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;aguas claras;72130-010;Brasília;DF;2024-08-20;Pedro Santos
+104015;Depósito Cerrado Sul - TESTE 04-015;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Guará;;Brasília;DF;2022-07-24;Ana Souza
+104016;Distribuidora Vale do Alvorada - TESTE 04-016;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Guará I;;Brasília;DF;18/07/2025;Juliana Costa
+104017;Empório do Produtor - TESTE 04-017;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Águas Claras Norte;;Brasília;DF;10/10/2024;Mariana Alves
+104018;Armazém Boa Colheita - TESTE 04-018;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;;;Brasília;DF;2021-02-16;Ana Souza
+104019;Mercadinho Recanto Feliz - TESTE 04-019;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Águas Claras Norte;;Brasília;DF;2024-11-12;Pedro Santos
+104020;Loja de Utilidades Girassol - TESTE 04-020;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Águas Claras Norte;;Brasília;DF;25-01-2022;Pedro Santos
+104021;Distribuidora Cerrado Norte - TESTE 04-021;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;taguatinga sul;72140-010;Brasília;DF;18/02/2022;Ana Souza
+104022;Mercearia Central DF - TESTE 04-022;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Taguatinga;71950-000;Brasília;DF;Feb 18, 2022;Pedro Santos
+104023;Distribuidora Horizonte Azul - TESTE 04-023;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Taguatinga Norte;00000-000;Brasília;DF;22-11-2022;Juliana Costa
+104024;Loja de Utilidades Girassol - TESTE 04-024;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Taguatinga Sul;;Brasília;DF;25-01-2022;Carlos Lima
+104025;Comercial Serra Azul - TESTE 04-025;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Taguatinga;71900-100;Brasília;DF;03-05-2022;Carlos Lima
+104026;Comercial Rio Bonito - TESTE 04-026;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;TAGUATINGA;71926-750;Brasília;DF;2022-08-28;Mariana Alves
+104027;Papelaria Horizonte - TESTE 04-027;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Taguatinga Sul;71950-000;Brasília;DF;03/03/2021;Mariana Alves
+104028;Casa da Limpeza Total - TESTE 04-028;123456;61 3784-7209;contato@casadalimpez.com.br;Guará I;;Brasília;DF;2024-01-11;Pedro Santos
+104029;Distribuidora Vale do Alvorada - TESTE 04-029;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Taguatinga;;Brasília;DF;data_invalida;Pedro Santos
+104030;Armarinhos Ponto Certo - TESTE 04-030;10.932.480/8613-17;(61) 3763-3522;contato@armarinhospo.com.br;Aguas claras;71929-000;Brasília;DF;Dec 16, 2023;Mariana Alves
+104031;Empório Chão Vermelho - TESTE 04-031;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;TAGUATINGA;72006-530;Brasília;DF;27/10/2025;Mariana Alves
+104032;Distribuidora Horizonte Azul - TESTE 04-032;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Águas Claras;00000-000;Brasília;DF;22-11-2022;Mariana Alves
+104033;Depósito Cerrado Sul - TESTE 04-033;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Taguatinga Sul;71900-100;Brasília;DF;2022-07-24;Pedro Santos
+104034;Armazém Boa Colheita - TESTE 04-034;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;Taguatinga;;Brasília;DF;2021-02-16;Mariana Alves
+104035;Bazar Estrela Dourada - TESTE 04-035;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;Taguatinga Norte;72006-400;Brasília;DF;Aug 18, 2022;Juliana Costa
+104036;Empório Vale Verde - TESTE 04-036;69.784.801/8451-46;(61) 98433-1053;contato@empóriovalev.com.br;Vicente Pires;;Brasília;DF;Dec 24, 2023;Mariana Alves
+104037;Comercial Passo Firme - TESTE 04-037;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;aguas claras;71906-500;Brasília;DF;06/02/2024;Mariana Alves
+104038;Distribuidora Popular Centro-Oeste - TESTE 04-038;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;TAGUATINGA;;Brasília;DF;2025-04-16;Carlos Lima

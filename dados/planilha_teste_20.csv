@@ -1,0 +1,46 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+120001;Bazar Nova Esperança - TESTE 20-001;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;TAGUATINGA;71901-010;Brasília;DF;2025-01-28;Pedro Santos
+120002;Mercado Cantinho do Sabor - TESTE 20-002;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Aguas Claras - DF;71950-000;Brasília;DF;2023-09-15;Pedro Santos
+120003;Mercadinho Boa Vista - TESTE 20-003;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;Águas Claras;123;Brasília;DF;2022-06-21;Pedro Santos
+120004;Minimercado Vitória Régia - TESTE 20-004;36541458685014;(61) 95349-1626;email_invalido;Taguatinga Sul;72006-400;Brasília;DF;2024-10-04;Pedro Santos
+120005;Casa das Tintas Ipê - TESTE 20-005;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;Águas Claras Norte;;Brasília;DF;2021-08-17;Ana Souza
+120006;Comercial Rio Bonito - TESTE 20-006;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Águas Claras Norte;123;Brasília;DF;2022-08-28;Pedro Santos
+120007;Casa de Materiais Rocha - TESTE 20-007;71.870.262/1745-96;(61) 3972-6383;contato@casademateri.com.br;Taguatinga;00000-000;Brasília;DF;2025-11-28;Ana Souza
+120008;Armarinhos Silva & Cia - TESTE 20-008;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;Águas Claras Sul;72140-010;Brasília;DF;28/02/2022;Ana Souza
+120009;Armazém Fazendinha - TESTE 20-009;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;;71900-000;Brasília;DF;2022-12-25;Ana Souza
+120010;Mercadinho Boa Vista - TESTE 20-010;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;aguas claras;71926-750;Brasília;DF;2022-06-21;Pedro Santos
+120011;Empório do Produtor - TESTE 20-011;27193745299124;12345;contato@empóriodopro.com.br;Guará I;;Brasília;DF;10/10/2024;Ana Souza
+120012;Comercial Serra Azul - TESTE 20-012;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Taguatinga;123;Brasília;DF;03-05-2022;Ana Souza
+120013;Papelaria Horizonte - TESTE 20-013;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Vicente Pires;71950-000;Brasília;DF;03/03/2021;Ana Souza
+120014;Bazar Flor de Lis - TESTE 20-014;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Taguatinga;;Brasília;DF;2025-07-15;Pedro Santos
+120015;Mercadinho Nossa Senhora - TESTE 20-015;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Guará;123;Brasília;DF;2024-08-20;Carlos Lima
+120016;Padaria Trigo Dourado - TESTE 20-016;34670656272980;+55 61 91444-2375;contato@padariatrigo.com.br;Guará I;72140-010;Brasília;DF;jul 21, 2022;Pedro Santos
+120017;Bazar Nova Esperança - TESTE 20-017;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;Guará I;00000000;Brasília;DF;2025-01-28;Ana Souza
+120018;Distribuidora Cerrado Norte - TESTE 20-018;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;taguatinga sul;72140-010;Brasília;DF;18/02/2022;Juliana Costa
+120019;Armarinhos Silva & Cia - TESTE 20-019;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;Taguatinga - DF;72140-010;Brasília;DF;28/02/2022;Carlos Lima
+120020;Padaria Trigo Dourado - TESTE 20-020;34670656272980;+55 61 91444-2375;contato@padariatrigo.com.br;Taguatinga - DF;72140-010;Brasília;DF;jul 21, 2022;Pedro Santos
+120021;Distribuidora Popular Centro-Oeste - TESTE 20-021;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;Águas Claras Norte;;Brasília;DF;2025-04-16;Carlos Lima
+120022;Casa das Tintas Ipê - TESTE 20-022;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;aguas claras;;Brasília;DF;2021-08-17;Ana Souza
+120023;Mercearia Central DF - TESTE 20-023;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;aguas claras;71950-000;Brasília;DF;Feb 18, 2022;Ana Souza
+120024;Loja Bom Retiro - TESTE 20-024;03.447.134/9361-83;(61) 95352-3330;email_invalido;Guará I;72110-800;Brasília;DF;03-01-2022;Juliana Costa
+120025;Depósito Cerrado Sul - TESTE 20-025;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Guará I;12.345-678;Brasília;DF;2022-07-24;Ana Souza
+120026;Distribuidora Horizonte Azul - TESTE 20-026;58.867.533/9636-05;12345;contato@distribuidor.com.br;Águas Claras;00000-000;Brasília;DF;22-11-2022;Ana Souza
+120027;Armarinhos Silva & Cia - TESTE 20-027;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;;72140-010;Brasília;DF;28/02/2022;Mariana Alves
+120028;Bazar Nova Esperança - TESTE 20-028;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;guara ii;71901-010;Brasília;DF;2025-01-28;Pedro Santos
+120029;Loja Fatima Confecções - TESTE 20-029;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;Águas Claras;;Brasília;DF;2024-11-03;Juliana Costa
+120030;Comercial Serra Azul - TESTE 20-030;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Guará I;71900-100;Brasília;DF;03-05-2022;Carlos Lima
+120031;Comercial Passo Firme - TESTE 20-031;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;TAGUATINGA;71906-500;Brasília;DF;06/02/2024;Carlos Lima
+120032;Empório Chão Vermelho - TESTE 20-032;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Vicente Pires;72006-530;Brasília;DF;data_invalida;Juliana Costa
+120033;Mercado Cantinho do Sabor - TESTE 20-033;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Aguas Claras - DF;71950-000;Brasília;DF;2023-09-15;Carlos Lima
+120034;Bazar Sol Nascente - TESTE 20-034;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Guará;;Brasília;DF;nov 19, 2021;Carlos Lima
+120035;Distribuidora Vale do Alvorada - TESTE 20-035;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Taguatinga Sul;;Brasília;DF;18/07/2025;Juliana Costa
+120036;Comercial Rio Bonito - TESTE 20-036;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Guará I;71926-750;Brasília;DF;2022-08-28;Ana Souza
+120037;Distribuidora Popular Centro-Oeste - TESTE 20-037;83.930.103/1051-83;12345;contato@distribuidor.com.br;Taguatinga Norte;;Brasília;DF;2025-04-16;Juliana Costa
+120038;Casa das Bebidas Real - TESTE 20-038;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;TAGUATINGA;71925-000;Brasília;DF;2022-02-22;Ana Souza
+120039;Distribuidora Horizonte Azul - TESTE 20-039;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;;00000-000;Brasília;DF;22-11-2022;Juliana Costa
+120040;Armazém Boa Colheita - TESTE 20-040;123456;(61) 3138-5986;contato@armazémboaco.com.br;Águas Claras Norte;;Brasília;DF;2021-02-16;Ana Souza
+120041;Armazém Boa Colheita - TESTE 20-041;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;guara ii;;Brasília;DF;2021-02-16;Mariana Alves
+120042;Casa das Tintas Ipê - TESTE 20-042;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;Águas Claras;;Brasília;DF;2021-08-17;Mariana Alves
+120043;Loja Fatima Confecções - TESTE 20-043;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;aguas claras;;Brasília;DF;2024-11-03;Pedro Santos
+120044;Empório do Produtor - TESTE 20-044;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Águas Claras;;Brasília;DF;data_invalida;Mariana Alves
+120045;Ferragens União - TESTE 20-045;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Águas Claras Norte;72006-400;Brasília;DF;2022-07-09;Juliana Costa

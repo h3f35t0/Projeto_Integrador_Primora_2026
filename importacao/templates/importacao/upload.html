@@ -1,0 +1,151 @@
+{% load etl_tags %}
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ETL - Clientes DF</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+body{background:#f5f7fb}.wrap{max-width:1500px;margin:36px auto}.table-wrap{max-height:620px;overflow:auto}
+.small-cell{font-size:.85rem}.issue-icon{display:inline-flex;align-items:center;justify-content:center;
+ width:19px;height:19px;margin-left:5px;border-radius:50%;font-size:12px;font-weight:700;
+ color:#fff;background:#dc3545;cursor:help;vertical-align:middle}
+.warning-icon{background:#d97706}.ok-icon{background:#198754}
+.original-cell{white-space:nowrap}
+</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+<div class="container-fluid px-4">
+<a class="navbar-brand fw-semibold" href="{% url 'importacao:upload_excel' %}">Analise de dados <span class="text-info">•</span> Qualidade de dados</a>
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-expanded="false" aria-label="Abrir menu"><span class="navbar-toggler-icon"></span></button>
+<div class="collapse navbar-collapse" id="menuPrincipal">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<li class="nav-item"><a class="nav-link {% if request.resolver_match.url_name == 'upload_excel' %}active fw-semibold{% endif %}" href="{% url 'importacao:upload_excel' %}"> <span class="me-1">&#128196;</span> Upload de Excel</a></li>
+<li class="nav-item"><a class="nav-link {% if request.resolver_match.url_name == 'listar_consolidados' %}active fw-semibold{% endif %}" href="{% url 'importacao:listar_consolidados' %}"><span class="me-1">&#128269;</span> Consulta de dados</a></li>
+{% if request.user.is_staff %}<li class="nav-item"><a class="nav-link {% if request.resolver_match.url_name == 'cadastrar_usuario' %}active fw-semibold{% endif %}" href="{% url 'importacao:cadastrar_usuario' %}"><span class="me-1">&#128100;</span> Cadastrar usuário</a></li>{% endif %}
+</ul>
+<div class="d-flex align-items-center gap-3 text-white">
+<span class="small">{{ request.user.username }}</span>
+<form method="post" action="{% url 'logout' %}" class="m-0">{% csrf_token %}<button class="btn btn-outline-light btn-sm" type="submit">Sair</button></form>
+</div>
+</div></div></nav>
+<main class="container-fluid px-4 wrap">
+<div class="card border-0 shadow-sm mb-4"><div class="card-body p-4">
+<h1 class="h4">Importar clientes</h1>
+<p class="text-muted">Envie CSV ou Excel. Os valores originais são preservados; os ícones indicam problemas identificados pelas regras de validação.</p>
+{% if messages %}{% for message in messages %}
+<div class="alert alert-{% if message.tags == 'error' %}danger{% elif message.tags == 'warning' %}warning{% else %}success{% endif %} alert-dismissible fade show">
+{{ message }}<button class="btn-close" data-bs-dismiss="alert"></button></div>
+{% endfor %}{% endif %}
+<form method="post" enctype="multipart/form-data">{% csrf_token %}
+<label class="form-label fw-semibold">{{ form.arquivo.label }}</label>{{ form.arquivo }}
+{% for error in form.arquivo.errors %}<div class="text-danger small">{{ error }}</div>{% endfor %}
+<div class="form-text mb-3">.csv ou .xlsx • máximo 10 MB • CSV separado por ponto e vírgula</div>
+<button class="btn btn-primary">Enviar e executar ETL</button>
+</form></div></div>
+
+{% if lote %}
+<div class="card border-0 shadow-sm mb-4"><div class="card-body p-4">
+<h2 class="h5">Resumo da importação: {{ lote.nome_arquivo }}</h2>
+<div class="row g-3 mt-1">
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">📋</span>Registros</div><div class="h3 mb-1">{{ lote.total_registros }}</div><div class="small text-secondary">Quantidade total de linhas de clientes processadas neste arquivo.</div></div></div>
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">⚪</span>CEP ausente</div><div class="h3 mb-1">{{ total_cep_ausente }}</div><div class="small text-secondary">Registros em que o campo CEP está vazio ou não foi informado na origem.</div></div></div>
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">❌</span>CEP inválido</div><div class="h3 mb-1">{{ total_cep_invalido }}</div><div class="small text-secondary">Registros cujo CEP informado não atende ao formato ou à quantidade de oito dígitos exigida.</div></div></div>
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">⚠️</span>Conflitos confirmados</div><div class="h3 mb-1">{{ total_conflitos }}</div><div class="small text-secondary">Casos em que o CEP consultado indica uma localidade/bairro diferente do informado no cadastro.</div></div></div>
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">✅</span>Consultas API concluídas</div><div class="h3 mb-1">{{ total_api_consultada|default:0 }}</div><div class="small text-secondary">Consultas ao serviço de CEP que retornaram dados para análise.</div></div></div>
+<div class="col-md-4 col-lg-3"><div class="border rounded p-3 h-100"><div class="text-muted small"><span class="me-1" aria-hidden="true">🔌</span>Consultas API indisponíveis</div><div class="h3 mb-1">{{ total_api_indisponivel|default:0 }}</div><div class="small text-secondary">Consultas que não puderam ser concluídas por indisponibilidade ou falha de comunicação com a API.</div></div></div>
+</div>
+<p class="text-muted small mt-3 mb-0">Os dados originais abaixo não são alterados. O sistema consulta ViaCEP e, se necessário, BrasilAPI. A resposta real da API aparece na auditoria. Se ambas falharem, o registro fica como não verificado/indisponível; não se inventa endereço.</p>
+<form method="post" action="{% url 'importacao:salvar_lote' lote.id %}" class="mt-3">
+{% csrf_token %}
+<button type="submit" class="btn btn-success" onclick="return confirm('Gravar os dados originais e ajustados deste lote no banco de dados?');">
+Salvar dados no banco de dados
+</button>
+
+</form>
+</div></div>
+
+<div class="card border-0 shadow-sm mb-4"><div class="card-body p-4">
+<div class="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-3">
+<h2 class="h5 mb-0">Dados originais com alertas</h2>
+<div class="small d-flex flex-wrap gap-3">
+<span><span class="issue-icon">!</span> Erro identificado</span>
+<span><span class="issue-icon warning-icon">?</span> Dado não verificado / atenção</span>
+<span class="badge text-bg-danger">Linha vermelha: registro com erro</span>
+<span class="badge text-bg-success">Linha verde: todos os dados validados sem alertas</span>
+<span class="text-muted">Passe o mouse sobre o ícone para ver o motivo.</span>
+</div></div>
+<div class="table-responsive table-wrap">
+<table class="table table-sm table-striped table-bordered align-middle small-cell">
+<thead class="table-light"><tr><th>Linha</th>
+{% for campo in campos_originais %}<th>{{ campo }}</th>{% endfor %}
+</tr></thead>
+<tbody>
+{% for r in registros %}
+<tr{% if r.email_status == "INVALIDO" or r.cnpj_status == "INVALIDO" or r.telefone_status == "INVALIDO" or r.data_cadastro_status == "INVALIDA" or r.status_cep == "AUSENTE" or r.status_cep == "INVALIDO" or r.status_conferencia == "CONFLITO" or not r.bairro_canonico %} class="table-danger"{% elif r.email_status == "VALIDO" and r.cnpj_status == "VALIDO" and r.telefone_status == "VALIDO" and r.data_cadastro_status == "VALIDA" and r.status_cep != "AUSENTE" and r.status_cep != "INVALIDO" and r.status_conferencia == "COMPATIVEL" and r.bairro_canonico %} class="table-success"{% endif %}><td>{{ r.numero_linha }}</td>
+{% for campo in campos_originais %}
+<td class="original-cell">
+{{ r.dados_originais|get_item:campo|default:"—" }}
+{% if campo == "cep" %}
+    {% if r.status_cep == "AUSENTE" %}
+        <span class="issue-icon" title="CEP ausente">!</span>
+    {% elif r.status_cep == "INVALIDO" %}
+        <span class="issue-icon" title="CEP em formato inválido">!</span>
+    {% elif r.status_conferencia == "CONFLITO" %}
+        <span class="issue-icon" title="CEP não corresponde ao bairro da referência postal cadastrada">!</span>
+    {% elif r.status_conferencia == "NAO_VERIFICADO" and r.bairro_canonico %}
+        <span class="issue-icon warning-icon" title="CEP sem referência postal cadastrada; não é possível confirmar a correspondência">?</span>
+    {% endif %}
+{% elif campo == "bairro_informado" %}
+    {% if r.status_conferencia == "DIVERGENCIA_API" %}
+        <span class="issue-icon warning-icon" title="Bairro retornado pela API: {{ r.api_bairro|default:'Não informado' }}. O bairro cadastrado é diferente; confira a informação.">!</span>
+    {% elif r.api_status == "CONSULTADO" and r.api_bairro and r.status_conferencia == "COMPATIVEL" %}
+        <span class="issue-icon ok-icon" title="Bairro retornado pela API: {{ r.api_bairro }}. Compatível com o bairro informado.">✓</span>
+    {% elif not r.bairro_canonico %}
+        <span class="issue-icon" title="Bairro ausente ou não reconhecido. Bairro retornado pela API: {{ r.api_bairro|default:'Não disponível' }}.">!</span>
+    {% elif r.status_conferencia == "CONFLITO" %}
+        <span class="issue-icon" title="O CEP cadastrado aponta para bairro diferente do bairro informado. Bairro retornado pela API: {{ r.api_bairro|default:'Não disponível' }}.">!</span>
+    {% elif r.api_status == "CONSULTADO" and not r.api_bairro %}
+        <span class="issue-icon warning-icon" title="A API consultou o CEP, mas não retornou bairro para comparação.">?</span>
+    {% elif r.api_status == "CONSULTADO" and r.api_bairro %}
+        <span class="issue-icon warning-icon" title="Bairro retornado pela API: {{ r.api_bairro }}. A correspondência precisa de conferência manual.">?</span>
+    {% endif %}
+{% elif campo == "email" %}
+    {% if r.email_status == "INVALIDO" %}
+        <span class="issue-icon" title="{{ r.email_observacao }}">!</span>
+    {% elif r.email_status == "AUSENTE" %}
+        <span class="issue-icon warning-icon" title="{{ r.email_observacao }}">!</span>
+    {% endif %}
+{% elif campo == "cnpj" %}
+    {% if r.cnpj_status == "FORMATO_INCORRETO" %}
+        <span class="issue-icon warning-icon" title="{{ r.cnpj_observacao }}">!</span>
+    {% elif r.cnpj_status == "INVALIDO" %}
+        <span class="issue-icon" title="{{ r.cnpj_observacao }}">!</span>
+    {% elif r.cnpj_status == "AUSENTE" %}
+        <span class="issue-icon warning-icon" title="{{ r.cnpj_observacao }}">!</span>
+    {% endif %}
+{% elif campo == "telefone" %}
+    {% if r.telefone_status == "FORMATO_INCORRETO" or r.telefone_status == "AUSENTE" %}
+        <span class="issue-icon warning-icon" title="{{ r.telefone_observacao }}">!</span>
+    {% elif r.telefone_status == "INVALIDO" %}
+        <span class="issue-icon" title="{{ r.telefone_observacao }}">!</span>
+    {% endif %}
+{% elif campo == "data_cadastro" %}
+    {% if r.data_cadastro_status == "INVALIDA" %}
+        <span class="issue-icon" title="{{ r.data_cadastro_observacao }}">!</span>
+    {% elif r.data_cadastro_status == "CORRIGIDA" or r.data_cadastro_status == "AUSENTE" %}
+        <span class="issue-icon warning-icon" title="{{ r.data_cadastro_observacao }}">!</span>
+    {% endif %}
+{% endif %}
+</td>
+{% endfor %}
+</tr>
+{% endfor %}
+</tbody></table></div>
+</div></div>
+
+{% endif %}
+</main>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body></html>

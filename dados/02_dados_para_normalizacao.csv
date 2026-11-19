@@ -1,0 +1,13 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+CLI0013;Loja Fatima Confecções;84959310341316;+55 61 95114-1832;contato@lojafatimaco.com.br;guara - df;;Brasília;DF;2024-11-03;Bruno Almeida
+CLI0014;Depósito São Roque;27868011280598;(61) 97085-5700;contato@depósitosãor.com.br;Taguatinga;;Brasília;DF;02-05-2023;Rafael Souza
+CLI0015;Comercial Rio Bonito;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;aguas claras sul;71926-750;Brasília;DF;2022-08-28;Camila Torres
+CLI0016;Minimercado Vitória Régia;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Vicente Pires - DF;72006-400;Brasília;DF;21/06/2022;Bruno Almeida
+CLI0017;Casa de Carnes Ouro Fino;93.406.088/3561-59;61999038359;contato@casadecarnes.com.br;Vte Pires;72110-800;Brasília;DF;Feb 28, 2023;Diego Martins
+CLI0018;Armazém Planalto;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Vte Pires;72006-530;Brasília;DF;15-08-2024;Camila Torres
+CLI0019;Bazar Flor de Lis;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Guará II;;Brasília;DF;2025-07-15;Camila Torres
+CLI0020;Mercado Bom Preço DF;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;Taguatinga - DF;72130-010;Brasília;DF;25/08/2025;Diego Martins
+CLI0021;Distribuidora Cerrado Norte;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;taguatinga sul;72140-010;Brasília;DF;18/02/2022;Camila Torres
+CLI0022;Comercial Águas do Sul;66587603669096;+55 61 91096-6763;contato@comercialágu.com.br;TAGUATINGA;72110-010;Brasília;DF;2024-07-10;Diego Martins
+CLI0023;Padaria Trigo Dourado;34670656272980;+55 61 91444-2375;contato@padariatrigo.com.br;Taguatinga - DF;72140-010;Brasília;DF;jul 21, 2022;Juliana Reis
+CLI0024;Loja de Utilidades Girassol;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Sul (Águas Claras);;Brasília;DF;25-01-2022;Camila Torres

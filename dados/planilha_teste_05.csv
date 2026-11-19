@@ -1,0 +1,26 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+105001;Casa das Bebidas Real - TESTE 05-001;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;aguas claras;71925-000;Brasília;DF;2022-02-22;Ana Souza
+105002;Mercadinho Recanto Feliz - TESTE 05-002;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;aguas claras;;Brasília;DF;2024-11-12;Mariana Alves
+105003;Papelaria Horizonte - TESTE 05-003;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Guará;71950-000;Brasília;DF;03/03/2021;Pedro Santos
+105004;Distribuidora Horizonte Azul - TESTE 05-004;123456;+55 61 97246-7325;contato@distribuidor.com.br;Vicente Pires;00000-000;Brasília;DF;22-11-2022;Juliana Costa
+105005;Mercearia Dois Irmãos - TESTE 05-005;89.325.288/0957-01;61951273847;contato@merceariadoi.com.br;Taguatinga Sul;00000-000;Brasília;DF;08-01-2022;Mariana Alves
+105006;Depósito Cerrado Sul - TESTE 05-006;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Taguatinga Sul;71900-100;Brasília;DF;2022-07-24;Carlos Lima
+105007;Bazar Estrela Dourada - TESTE 05-007;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;aguas claras;72006-400;Brasília;DF;Aug 18, 2022;Juliana Costa
+105008;Loja Fatima Confecções - TESTE 05-008;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;TAGUATINGA;;Brasília;DF;2024-11-03;Pedro Santos
+105009;Depósito São Roque - TESTE 05-009;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Taguatinga;;Brasília;DF;02-05-2023;Juliana Costa
+105010;Papelaria Horizonte - TESTE 05-010;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;guara ii;71950-000;Brasília;DF;03/03/2021;Ana Souza
+105011;Ferragens União - TESTE 05-011;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;guara ii;72006-400;Brasília;DF;2022-07-09;Juliana Costa
+105012;Bazar Nova Esperança - TESTE 05-012;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;Norte (Águas Claras);71901-010;Brasília;DF;2025-01-28;Pedro Santos
+105013;Loja Fatima Confecções - TESTE 05-013;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;Taguatinga;00000000;Brasília;DF;2024-11-03;Pedro Santos
+105014;Distribuidora Horizonte Azul - TESTE 05-014;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;aguas claras;00000-000;Brasília;DF;22-11-2022;Carlos Lima
+105015;Distribuidora Horizonte Azul - TESTE 05-015;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Taguatinga Norte;00000-000;Brasília;DF;22-11-2022;Mariana Alves
+105016;Bazar Flor de Lis - TESTE 05-016;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Vicente Pires;;Brasília;DF;2025-07-15;Juliana Costa
+105017;Distribuidora Popular Centro-Oeste - TESTE 05-017;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;guara ii;;Brasília;DF;2025-04-16;Carlos Lima
+105018;Mercado Bom Preço DF - TESTE 05-018;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;Águas Claras Norte;72130-010;Brasília;DF;25/08/2025;Ana Souza
+105019;Armarinhos Silva & Cia - TESTE 05-019;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;Taguatinga Sul;72140-010;Brasília;DF;28/02/2022;Pedro Santos
+105020;Ferragens União - TESTE 05-020;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Águas Claras;72006-400;Brasília;DF;2022-07-09;Carlos Lima
+105021;Casa das Tintas Ipê - TESTE 05-021;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;Águas Claras;;Brasília;DF;2021-08-17;Ana Souza
+105022;Depósito São Roque - TESTE 05-022;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Águas Claras Norte;;Brasília;DF;02-05-2023;Juliana Costa
+105023;Casa de Materiais Rocha - TESTE 05-023;123456;(61) 3972-6383;contato@casademateri.com.br;Guará II;00000-000;Brasília;DF;2025-11-28;Pedro Santos
+105024;Mercadinho Sem Endereço Completo - TESTE 05-024;82.675.869/2617-96;61914391105;contato@semendereco.com.br;Taguatinga Norte;;Brasília;DF;2022-06-23;Ana Souza
+105025;Mercearia Central DF - TESTE 05-025;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Taguatinga;71950-000;Brasília;DF;Feb 18, 2022;Ana Souza

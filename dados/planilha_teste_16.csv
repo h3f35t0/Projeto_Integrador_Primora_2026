@@ -1,0 +1,42 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+116001;Comercial Passo Firme - TESTE 16-001;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Guará;12.345-678;Brasília;DF;06/02/2024;Pedro Santos
+116002;Casa das Tintas Ipê - TESTE 16-002;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;aguas claras;;Brasília;DF;2021-08-17;Pedro Santos
+116003;Distribuidora Vale do Alvorada - TESTE 16-003;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Taguatinga Norte;;Brasília;DF;18/07/2025;Carlos Lima
+116004;Armarinhos Silva & Cia - TESTE 16-004;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;Guará II;123;Brasília;DF;28/02/2022;Ana Souza
+116005;Loja de Utilidades Girassol - TESTE 16-005;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Guará;;Brasília;DF;25-01-2022;Juliana Costa
+116006;Bazar Flor de Lis - TESTE 16-006;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Guará I;;Brasília;DF;2025-07-15;Pedro Santos
+116007;Distribuidora Cerrado Norte - TESTE 16-007;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;taguatinga sul;72140-010;Brasília;DF;18/02/2022;Carlos Lima
+116008;Mercearia Dois Irmãos - TESTE 16-008;89.325.288/0957-01;61951273847;contato@merceariadoi.com.br;;00000-000;Brasília;DF;08-01-2022;Juliana Costa
+116009;Loja Fatima Confecções - TESTE 16-009;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;guara - df;;Brasília;DF;2024-11-03;Pedro Santos
+116010;Empório do Produtor - TESTE 16-010;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Guará;;Brasília;DF;10/10/2024;Carlos Lima
+116011;Mercadinho Boa Vista - TESTE 16-011;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;Guará I;71926-750;Brasília;DF;2022-06-21;Mariana Alves
+116012;Bazar Sol Nascente - TESTE 16-012;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;aguas claras;71901-010;Brasília;DF;nov 19, 2021;Carlos Lima
+116013;Comercial Águas do Sul - TESTE 16-013;66587603669096;+55 61 91096-6763;contato@comercialágu.com.br;TAGUATINGA;72110-010;Brasília;DF;2024-07-10;Juliana Costa
+116014;Depósito Cerrado Sul - TESTE 16-014;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Taguatinga;71900-100;Brasília;DF;2022-07-24;Carlos Lima
+116015;Ferragens União - TESTE 16-015;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Taguatinga Norte;72006-400;Brasília;DF;2022-07-09;Pedro Santos
+116016;Comercial Duas Palmeiras - TESTE 16-016;123456;61 3356-1423;contato@comercialdua.com.br;Guará;;Brasília;DF;Apr 3, 2025;Ana Souza
+116017;Depósito Cerrado Sul - TESTE 16-017;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Águas Claras/DF;71900-100;Brasília;DF;2022-07-24;Mariana Alves
+116018;Empório do Produtor - TESTE 16-018;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Taguatinga/DF;;Brasília;DF;10/10/2024;Pedro Santos
+116019;Mercadinho Sem Endereço Completo - TESTE 16-019;82.675.869/2617-96;61914391105;contato@semendereco.com.br;Guará;;Brasília;DF;2022-06-23;Carlos Lima
+116020;Bazar Estrela Dourada - TESTE 16-020;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;Guará II;72006-400;Brasília;DF;Aug 18, 2022;Pedro Santos
+116021;Mercado Bom Preço DF - TESTE 16-021;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;Águas Claras;72130-010;Brasília;DF;25/08/2025;Juliana Costa
+116022;Distribuidora Vale do Alvorada - TESTE 16-022;04.711.671/9022-94;(61) 3354-2940;email_invalido;Águas Claras Norte;;Brasília;DF;18/07/2025;Carlos Lima
+116023;Empório Chão Vermelho - TESTE 16-023;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Águas Claras Norte;00000000;Brasília;DF;27/10/2025;Ana Souza
+116024;Loja Fatima Confecções - TESTE 16-024;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;Guará II;;Brasília;DF;2024-11-03;Juliana Costa
+116025;Papelaria Horizonte - TESTE 16-025;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;;71950-000;Brasília;DF;03/03/2021;Ana Souza
+116026;Bazar Flor de Lis - TESTE 16-026;48951343320037;12345;contato@bazarflordel.com.br;Guará;;Brasília;DF;2025-07-15;Ana Souza
+116027;Loja de Utilidades Girassol - TESTE 16-027;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Taguatinga Sul;;Brasília;DF;25-01-2022;Carlos Lima
+116028;Casa de Carnes Ouro Fino - TESTE 16-028;93.406.088/3561-59;61999038359;contato@casadecarnes.com.br;aguas claras;72110-800;Brasília;DF;Feb 28, 2023;Mariana Alves
+116029;Empório do Produtor - TESTE 16-029;123456;(61) 3692-1420;contato@empóriodopro.com.br;Vicente Pires;;Brasília;DF;10/10/2024;Pedro Santos
+116030;Comercial Rio Bonito - TESTE 16-030;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;AGUAS CLARAS;71926-750;Brasília;DF;2022-08-28;Pedro Santos
+116031;Padaria Trigo Dourado - TESTE 16-031;123456;+55 61 91444-2375;contato@padariatrigo.com.br;Vicente Pires;72140-010;Brasília;DF;jul 21, 2022;Mariana Alves
+116032;Mercado Bom Preço DF - TESTE 16-032;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;Águas Claras Sul;72130-010;Brasília;DF;25/08/2025;Juliana Costa
+116033;Casa das Tintas Ipê - TESTE 16-033;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;;;Brasília;DF;2021-08-17;Carlos Lima
+116034;Armazém Fazendinha - TESTE 16-034;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Taguatinga;00000000;Brasília;DF;2022-12-25;Pedro Santos
+116035;Comercial Serra Azul - TESTE 16-035;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;TAGUATINGA;71900-100;Brasília;DF;03-05-2022;Mariana Alves
+116036;Comercial Águas do Sul - TESTE 16-036;66587603669096;+55 61 91096-6763;contato@comercialágu.com.br;TAGUATINGA;72110-010;Brasília;DF;2024-07-10;Juliana Costa
+116037;Mercadinho Recanto Feliz - TESTE 16-037;49190586518506;+55 61 92729-8102;email_invalido;Taguatinga;;Brasília;DF;2024-11-12;Carlos Lima
+116038;Loja de Utilidades Girassol - TESTE 16-038;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Águas Claras Norte;;Brasília;DF;data_invalida;Mariana Alves
+116039;Mercearia Central DF - TESTE 16-039;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;aguas claras;71950-000;Brasília;DF;Feb 18, 2022;Carlos Lima
+116040;Minimercado Vitória Régia - TESTE 16-040;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Vicente Pires - DF;72006-400;Brasília;DF;2024-10-04;Mariana Alves
+116041;Mercearia Dois Irmãos - TESTE 16-041;89.325.288/0957-01;61951273847;contato@merceariadoi.com.br;Guará II;00000-000;Brasília;DF;08-01-2022;Ana Souza

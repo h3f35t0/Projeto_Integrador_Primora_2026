@@ -1,0 +1,31 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+113001;Minimercado Vitória Régia - TESTE 13-001;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Taguatinga;72006-400;Brasília;DF;2024-10-04;Pedro Santos
+113002;Mercadinho Boa Vista - TESTE 13-002;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;aguas claras;71926-750;Brasília;DF;2022-06-21;Mariana Alves
+113003;Distribuidora Vale do Alvorada - TESTE 13-003;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Águas Claras Norte;;Brasília;DF;18/07/2025;Mariana Alves
+113004;Empório Vale Verde - TESTE 13-004;69.784.801/8451-46;(61) 98433-1053;contato@empóriovalev.com.br;Guará II;71929-000;Brasília;DF;Dec 24, 2023;Carlos Lima
+113005;Mercadinho Nossa Senhora - TESTE 13-005;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Taguatinga Sul;72130-010;Brasília;DF;2024-08-20;Ana Souza
+113006;Casa de Carnes Ouro Fino - TESTE 13-006;93.406.088/3561-59;61999038359;contato@casadecarnes.com.br;Vte Pires;72110-800;Brasília;DF;Feb 28, 2023;Carlos Lima
+113007;Distribuidora Horizonte Azul - TESTE 13-007;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Taguatinga Sul;00000-000;Brasília;DF;22-11-2022;Carlos Lima
+113008;Armarinhos Ponto Certo - TESTE 13-008;10.932.480/8613-17;(61) 3763-3522;contato@armarinhospo.com.br;Águas Claras Sul;71929-000;Brasília;DF;Dec 16, 2023;Ana Souza
+113009;Depósito São Roque - TESTE 13-009;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Guará II;;Brasília;DF;02-05-2023;Carlos Lima
+113010;Mercadinho Nossa Senhora - TESTE 13-010;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Guará;72130-010;Brasília;DF;2024-08-20;Pedro Santos
+113011;Bazar Sol Nascente - TESTE 13-011;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Águas Claras Sul;71901-010;Brasília;DF;nov 19, 2021;Pedro Santos
+113012;Distribuidora Popular Centro-Oeste - TESTE 13-012;83.930.103/1051-83;61999788677;email_invalido;Águas Claras Sul;;Brasília;DF;2025-04-16;Pedro Santos
+113013;Mercado Popular Central - TESTE 13-013;13.431.611/7240-05;(61) 3400-6873;contato@mercadopopul.com.br;;71901-010;Brasília;DF;2022-07-12;Pedro Santos
+113014;Bazar Nova Esperança - TESTE 13-014;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;guara ii;71901-010;Brasília;DF;2025-01-28;Juliana Costa
+113015;Depósito São Roque - TESTE 13-015;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Águas Claras Sul;;Brasília;DF;02-05-2023;Carlos Lima
+113016;Empório Vale Verde - TESTE 13-016;69.784.801/8451-46;(61) 98433-1053;contato@empóriovalev.com.br;Guará II;71929-000;Brasília;DF;Dec 24, 2023;Mariana Alves
+113017;Empório Vale Verde - TESTE 13-017;69.784.801/8451-46;(61) 98433-1053;email_invalido;Guará;71929-000;Brasília;DF;Dec 24, 2023;Carlos Lima
+113018;Loja Multi Utilidades - TESTE 13-018;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Aguas claras;71900-100;Brasília;DF;04/08/2023;Pedro Santos
+113019;Casa das Bebidas Real - TESTE 13-019;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;Águas Claras Sul;71925-000;Brasília;DF;2022-02-22;Pedro Santos
+113020;Distribuidora Popular Centro-Oeste - TESTE 13-020;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;TAGUATINGA;;Brasília;DF;2025-04-16;Carlos Lima
+113021;Bazar Estrela Dourada - TESTE 13-021;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;;72006-400;Brasília;DF;Aug 18, 2022;Ana Souza
+113022;Mercadinho Recanto Feliz - TESTE 13-022;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;aguas claras;;Brasília;DF;2024-11-12;Pedro Santos
+113023;Mercadinho Boa Vista - TESTE 13-023;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;;71926-750;Brasília;DF;2022-06-21;Mariana Alves
+113024;Papelaria Horizonte - TESTE 13-024;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Guará II;71950-000;Brasília;DF;03/03/2021;Pedro Santos
+113025;Mercadinho Recanto Feliz - TESTE 13-025;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Águas Claras;;Brasília;DF;2024-11-12;Pedro Santos
+113026;Armazém Planalto - TESTE 13-026;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Vte Pires;72006-530;Brasília;DF;15-08-2024;Pedro Santos
+113027;Empório Chão Vermelho - TESTE 13-027;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;guara ii;72006-530;Brasília;DF;27/10/2025;Juliana Costa
+113028;Empório Vale Verde - TESTE 13-028;69.784.801/8451-46;12345;contato@empóriovalev.com.br;Vicente Pires;71929-000;Brasília;DF;Dec 24, 2023;Carlos Lima
+113029;Mercado Cantinho do Sabor - TESTE 13-029;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Águas Claras Sul;123;Brasília;DF;2023-09-15;Pedro Santos
+113030;Armazém Fazendinha - TESTE 13-030;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Águas Claras;;Brasília;DF;2022-12-25;Carlos Lima

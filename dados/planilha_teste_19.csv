@@ -1,0 +1,52 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+119001;Armazém Planalto - TESTE 19-001;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Águas Claras;72006-530;Brasília;DF;15-08-2024;Juliana Costa
+119002;Mercearia Central DF - TESTE 19-002;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Guará;71950-000;Brasília;DF;Feb 18, 2022;Pedro Santos
+119003;Loja Fatima Confecções - TESTE 19-003;123456;+55 61 95114-1832;contato@lojafatimaco.com.br;Taguatinga Sul;;Brasília;DF;2024-11-03;Carlos Lima
+119004;Loja Fatima Confecções - TESTE 19-004;24.118.244/9353-48;+55 61 95114-1832;contato@lojafatimaco.com.br;guara ii;;Brasília;DF;2024-11-03;Carlos Lima
+119005;Casa da Limpeza Total - TESTE 19-005;87.769.453/1473-79;61 3784-7209;contato@casadalimpez.com.br;guara ii;;Brasília;DF;2024-01-11;Carlos Lima
+119006;Mercado Bom Preço DF - TESTE 19-006;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;Águas Claras Sul;72130-010;Brasília;DF;25/08/2025;Ana Souza
+119007;Mercadinho Nossa Senhora - TESTE 19-007;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Vicente Pires;72130-010;Brasília;DF;2024-08-20;Ana Souza
+119008;Casa de Carnes Ouro Fino - TESTE 19-008;93.406.088/3561-59;12345;contato@casadecarnes.com.br;Águas Claras Sul;72110-800;Brasília;DF;Feb 28, 2023;Juliana Costa
+119009;Empório Chão Vermelho - TESTE 19-009;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Taguatinga;72006-530;Brasília;DF;27/10/2025;Pedro Santos
+119010;Casa de Materiais Rocha - TESTE 19-010;71.870.262/1745-96;(61) 3972-6383;contato@casademateri.com.br;guara ii;00000-000;Brasília;DF;2025-11-28;Ana Souza
+119011;Empório Chão Vermelho - TESTE 19-011;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Taguatinga Norte;72006-530;Brasília;DF;27/10/2025;Ana Souza
+119012;Distribuidora Popular Centro-Oeste - TESTE 19-012;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;Guará II;00000000;Brasília;DF;2025-04-16;Carlos Lima
+119013;Loja de Utilidades Girassol - TESTE 19-013;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;;;Brasília;DF;25-01-2022;Pedro Santos
+119014;Mercadinho Nossa Senhora - TESTE 19-014;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Águas Claras;72130-010;Brasília;DF;2024-08-20;Carlos Lima
+119015;Empório Chão Vermelho - TESTE 19-015;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;aguas claras;72006-530;Brasília;DF;27/10/2025;Mariana Alves
+119016;Empório Chão Vermelho - TESTE 19-016;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Vte Pires;72006-530;Brasília;DF;27/10/2025;Juliana Costa
+119017;Bazar Flor de Lis - TESTE 19-017;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Guará II;;Brasília;DF;2025-07-15;Juliana Costa
+119018;Minimercado Vitória Régia - TESTE 19-018;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Águas Claras Norte;72006-400;Brasília;DF;2024-10-04;Pedro Santos
+119019;Mercearia Central DF - TESTE 19-019;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Guará;71950-000;Brasília;DF;Feb 18, 2022;Ana Souza
+119020;Distribuidora Horizonte Azul - TESTE 19-020;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;;00000-000;Brasília;DF;22-11-2022;Ana Souza
+119021;Empório Chão Vermelho - TESTE 19-021;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Taguatinga;72006-530;Brasília;DF;27/10/2025;Carlos Lima
+119022;Bazar Flor de Lis - TESTE 19-022;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Águas Claras Sul;;Brasília;DF;2025-07-15;Carlos Lima
+119023;Casa das Tintas Ipê - TESTE 19-023;82.278.248/9638-34;+55 61 97118-8177;contato@casadastinta.com.br;Águas Claras;;Brasília;DF;2021-08-17;Mariana Alves
+119024;Armazém Fazendinha - TESTE 19-024;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;TAGUATINGA;71900-000;Brasília;DF;2022-12-25;Juliana Costa
+119025;Mercado Bom Preço DF - TESTE 19-025;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;aguas claras;72130-010;Brasília;DF;25/08/2025;Pedro Santos
+119026;Loja de Utilidades Girassol - TESTE 19-026;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Taguatinga;;Brasília;DF;data_invalida;Pedro Santos
+119027;Armazém Planalto - TESTE 19-027;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;TAGUATINGA;72006-530;Brasília;DF;15-08-2024;Pedro Santos
+119028;Comercial Águas do Sul - TESTE 19-028;66587603669096;+55 61 91096-6763;contato@comercialágu.com.br;guara ii;72110-010;Brasília;DF;2024-07-10;Carlos Lima
+119029;Supermercado Nova Aliança - TESTE 19-029;10.801.326/7736-02;+55 61 91035-7396;contato@supermercado.com.br;Águas Claras;71926-750;Brasília;DF;2023-08-09;Juliana Costa
+119030;Mercadinho Sem Endereço Completo - TESTE 19-030;82.675.869/2617-96;61914391105;contato@semendereco.com.br;Águas Claras;;Brasília;DF;2022-06-23;Juliana Costa
+119031;Loja Multi Utilidades - TESTE 19-031;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Aguas claras;71900-100;Brasília;DF;04/08/2023;Ana Souza
+119032;Loja Multi Utilidades - TESTE 19-032;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Taguatinga Sul;71900-100;Brasília;DF;04/08/2023;Carlos Lima
+119033;Mercadinho Sem Endereço Completo - TESTE 19-033;82.675.869/2617-96;61914391105;contato@semendereco.com.br;;;Brasília;DF;2022-06-23;Ana Souza
+119034;Casa da Limpeza Total - TESTE 19-034;123456;61 3784-7209;contato@casadalimpez.com.br;Taguatinga;;Brasília;DF;2024-01-11;Carlos Lima
+119035;Mercadinho Nossa Senhora - TESTE 19-035;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Águas Claras Norte;72130-010;Brasília;DF;2024-08-20;Ana Souza
+119036;Bazar Sol Nascente - TESTE 19-036;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;;71901-010;Brasília;DF;nov 19, 2021;Pedro Santos
+119037;Armazém Planalto - TESTE 19-037;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Taguatinga;72006-530;Brasília;DF;15-08-2024;Carlos Lima
+119038;Comercial São Judas - TESTE 19-038;28.327.648/3503-05;+55 61 95386-2084;contato@comercialsão.com.br;Taguatinga Norte;72140-010;Brasília;DF;2023-10-07;Pedro Santos
+119039;Mercadinho Recanto Feliz - TESTE 19-039;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Guará I;;Brasília;DF;2024-11-12;Carlos Lima
+119040;Distribuidora Horizonte Azul - TESTE 19-040;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Vicente Pires;00000-000;Brasília;DF;22-11-2022;Mariana Alves
+119041;Mercadinho Recanto Feliz - TESTE 19-041;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Taguatinga;;Brasília;DF;2024-11-12;Juliana Costa
+119042;Loja Multi Utilidades - TESTE 19-042;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Guará II;123;Brasília;DF;04/08/2023;Juliana Costa
+119043;Distribuidora Cerrado Norte - TESTE 19-043;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;Águas Claras Sul;72140-010;Brasília;DF;18/02/2022;Ana Souza
+119044;Comercial Rio Bonito - TESTE 19-044;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;;71926-750;Brasília;DF;2022-08-28;Mariana Alves
+119045;Armazém Boa Colheita - TESTE 19-045;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;Águas Claras Sul;00000000;Brasília;DF;2021-02-16;Pedro Santos
+119046;Comercial São Judas - TESTE 19-046;28.327.648/3503-05;+55 61 95386-2084;contato@comercialsão.com.br;Águas Claras Norte;;Brasília;DF;2023-10-07;Carlos Lima
+119047;Armarinhos Ponto Certo - TESTE 19-047;10.932.480/8613-17;(61) 3763-3522;contato@armarinhospo.com.br;Aguas claras;71929-000;Brasília;DF;Dec 16, 2023;Juliana Costa
+119048;Bazar Sol Nascente - TESTE 19-048;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Taguatinga Norte;;Brasília;DF;nov 19, 2021;Ana Souza
+119049;Armazém Planalto - TESTE 19-049;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Águas Claras Sul;72006-530;Brasília;DF;15-08-2024;Pedro Santos
+119050;Supermercado Nova Aliança - TESTE 19-050;10.801.326/7736-02;+55 61 91035-7396;contato@supermercado.com.br;Guará I;71926-750;Brasília;DF;2023-08-09;Carlos Lima
+119051;Mercadinho Recanto Feliz - TESTE 19-051;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Vicente Pires;;Brasília;DF;2024-11-12;Juliana Costa

@@ -1,0 +1,13 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+CLI0025;Empório do Produtor;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Taguatinga/DF;;Brasília;DF;10/10/2024;Juliana Reis
+CLI0026;Mercadinho Recanto Feliz;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;VICENTE PIRES;123;Brasília;DF;2024-11-12;Camila Torres
+CLI0027;Casa da Limpeza Total;87.769.453/1473-79;61 3784-7209;email_invalido;Guará I;;Brasília;DF;2024-01-11;Bruno Almeida
+CLI0028;Comercial Serra Azul;49.480.831/3678-37;12345;contato@comercialser.com.br;Aguas claras;71900-100;Brasília;DF;03-05-2022;Juliana Reis
+CLI0029;Armazém Fazendinha;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Águas Claras Sul;71900-000;Brasília;DF;data_invalida;Camila Torres
+CLI0030;Bazar Nova Esperança;123456;(61) 99042-2680;contato@bazarnovaesp.com.br;Norte (Águas Claras);71901-010;Brasília;DF;2025-01-28;Bruno Almeida
+CLI0031;Distribuidora Vale do Alvorada;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;;;Brasília;DF;18/07/2025;Diego Martins
+CLI0032;Mercearia Central DF;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;aguas claras;71950-000;Brasília;DF;Feb 18, 2022;Rafael Souza
+CLI0033;Loja Bom Retiro;03.447.134/9361-83;(61) 95352-3330;contato@lojabomretir.com.br;Vicente Pires - DF;72110-800;Brasília;DF;03-01-2022;Bruno Almeida
+CLI0034;Comercial Duas Palmeiras;17.464.887/7190-65;61 3356-1423;contato@comercialdua.com.br;Guará II;;Brasília;DF;Apr 3, 2025;Diego Martins
+CLI0035;Casa das Bebidas Real;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;Águas Claras;71925-000;Brasília;DF;2022-02-22;Bruno Almeida
+CLI0036;Mercadinho Nossa Senhora;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;taguatinga sul;72130-010;Brasília;DF;2024-08-20;Rafael Souza

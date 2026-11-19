@@ -1,0 +1,41 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+102001;Bazar Sol Nascente - TESTE 02-001;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Águas Claras Norte;71901-010;Brasília;DF;nov 19, 2021;Ana Souza
+102002;Bazar Flor de Lis - TESTE 02-002;48951343320037;61 3970-2193;contato@bazarflordel.com.br;Guará I;;Brasília;DF;2025-07-15;Mariana Alves
+102003;Armazém Fazendinha - TESTE 02-003;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Guará I;71900-000;Brasília;DF;2022-12-25;Pedro Santos
+102004;Ferragens União - TESTE 02-004;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Vicente Pires;72006-400;Brasília;DF;data_invalida;Ana Souza
+102005;Comercial Rio Bonito - TESTE 02-005;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;AGUAS CLARAS;71926-750;Brasília;DF;2022-08-28;Juliana Costa
+102006;Mercearia Central DF - TESTE 02-006;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;Guará I;71950-000;Brasília;DF;Feb 18, 2022;Juliana Costa
+102007;Bazar Nova Esperança - TESTE 02-007;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;aguas claras;71901-010;Brasília;DF;2025-01-28;Mariana Alves
+102008;Mercado Cantinho do Sabor - TESTE 02-008;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Guará;71950-000;Brasília;DF;2023-09-15;Ana Souza
+102009;Distribuidora Cerrado Norte - TESTE 02-009;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;Guará;72140-010;Brasília;DF;18/02/2022;Pedro Santos
+102010;Comercial São Judas - TESTE 02-010;28.327.648/3503-05;+55 61 95386-2084;contato@comercialsão.com.br;Águas Claras Sul;72140-010;Brasília;DF;2023-10-07;Juliana Costa
+102011;Distribuidora Cerrado Norte - TESTE 02-011;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;Águas Claras Sul;72140-010;Brasília;DF;18/02/2022;Juliana Costa
+102012;Loja Bom Retiro - TESTE 02-012;03.447.134/9361-83;(61) 95352-3330;contato@lojabomretir.com.br;Guará;72110-800;Brasília;DF;data_invalida;Pedro Santos
+102013;Bazar Nova Esperança - TESTE 02-013;34.352.408/2400-84;12345;contato@bazarnovaesp.com.br;Águas Claras Sul;71901-010;Brasília;DF;2025-01-28;Carlos Lima
+102014;Papelaria Horizonte - TESTE 02-014;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Vicente Pires;71950-000;Brasília;DF;03/03/2021;Carlos Lima
+102015;Mercadinho Nossa Senhora - TESTE 02-015;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Taguatinga Sul;12.345-678;Brasília;DF;2024-08-20;Carlos Lima
+102016;Loja Bom Retiro - TESTE 02-016;03.447.134/9361-83;(61) 95352-3330;contato@lojabomretir.com.br;Taguatinga Sul;72110-800;Brasília;DF;03-01-2022;Pedro Santos
+102017;Distribuidora Horizonte Azul - TESTE 02-017;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;aguas claras;00000-000;Brasília;DF;22-11-2022;Juliana Costa
+102018;Padaria Trigo Dourado - TESTE 02-018;34670656272980;+55 61 91444-2375;contato@padariatrigo.com.br;Taguatinga Sul;72140-010;Brasília;DF;jul 21, 2022;Juliana Costa
+102019;Depósito Cerrado Sul - TESTE 02-019;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Guará II;71900-100;Brasília;DF;2022-07-24;Pedro Santos
+102020;Mercado Cantinho do Sabor - TESTE 02-020;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Águas Claras Norte;71950-000;Brasília;DF;2023-09-15;Juliana Costa
+102021;Mercadinho Recanto Feliz - TESTE 02-021;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Taguatinga Sul;;Brasília;DF;2024-11-12;Juliana Costa
+102022;Padaria Trigo Dourado - TESTE 02-022;34670656272980;+55 61 91444-2375;contato@padariatrigo.com.br;Taguatinga;72140-010;Brasília;DF;jul 21, 2022;Carlos Lima
+102023;Casa das Bebidas Real - TESTE 02-023;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;Vicente Pires;71925-000;Brasília;DF;2022-02-22;Carlos Lima
+102024;Mercado Cantinho do Sabor - TESTE 02-024;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;TAGUATINGA;71950-000;Brasília;DF;2023-09-15;Juliana Costa
+102025;Mercadinho Boa Vista - TESTE 02-025;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;guara ii;71926-750;Brasília;DF;2022-06-21;Pedro Santos
+102026;Mercadinho Nossa Senhora - TESTE 02-026;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;taguatinga sul;72130-010;Brasília;DF;2024-08-20;Mariana Alves
+102027;Comercial Duas Palmeiras - TESTE 02-027;17.464.887/7190-65;61 3356-1423;contato@comercialdua.com.br;Guará II;;Brasília;DF;Apr 3, 2025;Pedro Santos
+102028;Mercado Cantinho do Sabor - TESTE 02-028;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Guará;71950-000;Brasília;DF;2023-09-15;Carlos Lima
+102029;Supermercado Nova Aliança - TESTE 02-029;10.801.326/7736-02;+55 61 91035-7396;contato@supermercado.com.br;Águas Claras Sul;71926-750;Brasília;DF;2023-08-09;Ana Souza
+102030;Armarinhos Silva & Cia - TESTE 02-030;42.388.496/9653-28;+55 61 92489-1771;email_invalido;Águas Claras Sul;72140-010;Brasília;DF;28/02/2022;Mariana Alves
+102031;Distribuidora Cerrado Norte - TESTE 02-031;77.434.873/4714-34;12345;contato@distribuidor.com.br;Guará I;72140-010;Brasília;DF;18/02/2022;Mariana Alves
+102032;Armazém Planalto - TESTE 02-032;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Vte Pires;72006-530;Brasília;DF;15-08-2024;Ana Souza
+102033;Depósito São Roque - TESTE 02-033;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;;;Brasília;DF;02-05-2023;Pedro Santos
+102034;Distribuidora Popular Centro-Oeste - TESTE 02-034;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;Guará;;Brasília;DF;2025-04-16;Pedro Santos
+102035;Papelaria Horizonte - TESTE 02-035;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Taguatinga Norte;71950-000;Brasília;DF;03/03/2021;Mariana Alves
+102036;Comercial Rio Bonito - TESTE 02-036;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Taguatinga Sul;71926-750;Brasília;DF;2022-08-28;Pedro Santos
+102037;Armazém Fazendinha - TESTE 02-037;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Taguatinga Sul;71900-000;Brasília;DF;data_invalida;Mariana Alves
+102038;Bazar Nova Esperança - TESTE 02-038;34.352.408/2400-84;(61) 99042-2680;contato@bazarnovaesp.com.br;Águas Claras Norte;12.345-678;Brasília;DF;2025-01-28;Pedro Santos
+102039;Distribuidora Popular Centro-Oeste - TESTE 02-039;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;Vicente Pires;123;Brasília;DF;2025-04-16;Carlos Lima
+102040;Comercial Serra Azul - TESTE 02-040;49.480.831/3678-37;12345;contato@comercialser.com.br;Guará I;71900-100;Brasília;DF;03-05-2022;Juliana Costa

@@ -1,0 +1,55 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+129001;Comercial Serra Azul - TESTE 29-001;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Águas Claras Sul;71900-100;Brasília;DF;03-05-2022;Juliana Costa
+129002;Depósito São Roque - TESTE 29-002;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Taguatinga Norte;;Brasília;DF;02-05-2023;Mariana Alves
+129003;Armazém Planalto - TESTE 29-003;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;Vicente Pires;72006-530;Brasília;DF;15-08-2024;Carlos Lima
+129004;Empório Chão Vermelho - TESTE 29-004;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Taguatinga Sul;72006-530;Brasília;DF;27/10/2025;Juliana Costa
+129005;Mercadinho Boa Vista - TESTE 29-005;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;Águas Claras;71926-750;Brasília;DF;2022-06-21;Ana Souza
+129006;Loja Multi Utilidades - TESTE 29-006;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Águas Claras Sul;71900-100;Brasília;DF;04/08/2023;Ana Souza
+129007;Mercadinho Boa Vista - TESTE 29-007;84.959.310/3413-16;61970855700;contato@mercadinhobo.com.br;Vicente Pires;123;Brasília;DF;2022-06-21;Ana Souza
+129008;Empório Vale Verde - TESTE 29-008;69.784.801/8451-46;(61) 98433-1053;contato@empóriovalev.com.br;aguas claras;71929-000;Brasília;DF;Dec 24, 2023;Carlos Lima
+129009;Mercado Cantinho do Sabor - TESTE 29-009;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;aguas claras;71950-000;Brasília;DF;2023-09-15;Mariana Alves
+129010;Distribuidora Horizonte Azul - TESTE 29-010;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;guara ii;00000-000;Brasília;DF;22-11-2022;Ana Souza
+129011;Empório do Produtor - TESTE 29-011;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Águas Claras Norte;;Brasília;DF;10/10/2024;Ana Souza
+129012;Mercadinho Nossa Senhora - TESTE 29-012;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;Taguatinga;72130-010;Brasília;DF;2024-08-20;Pedro Santos
+129013;Comercial Serra Azul - TESTE 29-013;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Taguatinga Norte;71900-100;Brasília;DF;03-05-2022;Ana Souza
+129014;Comercial Passo Firme - TESTE 29-014;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Águas Claras Norte;71906-500;Brasília;DF;06/02/2024;Mariana Alves
+129015;Comercial Rio Bonito - TESTE 29-015;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Taguatinga Norte;12.345-678;Brasília;DF;2022-08-28;Pedro Santos
+129016;Distribuidora Horizonte Azul - TESTE 29-016;58.867.533/9636-05;+55 61 97246-7325;email_invalido;Taguatinga Norte;00000-000;Brasília;DF;22-11-2022;Mariana Alves
+129017;Loja de Utilidades Girassol - TESTE 29-017;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Sul (Águas Claras);;Brasília;DF;25-01-2022;Mariana Alves
+129018;Supermercado Nova Aliança - TESTE 29-018;10.801.326/7736-02;+55 61 91035-7396;contato@supermercado.com.br;guara ii;71926-750;Brasília;DF;2023-08-09;Mariana Alves
+129019;Minimercado Vitória Régia - TESTE 29-019;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Guará;12.345-678;Brasília;DF;2024-10-04;Mariana Alves
+129020;Mercado Cantinho do Sabor - TESTE 29-020;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Guará;71950-000;Brasília;DF;2023-09-15;Juliana Costa
+129021;Mercado Cantinho do Sabor - TESTE 29-021;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Aguas Claras - DF;71950-000;Brasília;DF;2023-09-15;Pedro Santos
+129022;Empório do Produtor - TESTE 29-022;27193745299124;(61) 3692-1420;contato@empóriodopro.com.br;Taguatinga Sul;;Brasília;DF;10/10/2024;Carlos Lima
+129023;Bazar Flor de Lis - TESTE 29-023;48951343320037;61 3970-2193;email_invalido;Taguatinga Norte;;Brasília;DF;2025-07-15;Mariana Alves
+129024;Distribuidora Vale do Alvorada - TESTE 29-024;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Águas Claras;;Brasília;DF;18/07/2025;Mariana Alves
+129025;Comercial Rio Bonito - TESTE 29-025;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Guará;71926-750;Brasília;DF;2022-08-28;Carlos Lima
+129026;Casa da Limpeza Total - TESTE 29-026;87.769.453/1473-79;61 3784-7209;contato@casadalimpez.com.br;Taguatinga;;Brasília;DF;2024-01-11;Carlos Lima
+129027;Distribuidora Vale do Alvorada - TESTE 29-027;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Guará;;Brasília;DF;18/07/2025;Ana Souza
+129028;Distribuidora Cerrado Norte - TESTE 29-028;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;Taguatinga;72140-010;Brasília;DF;18/02/2022;Juliana Costa
+129029;Armazém Boa Colheita - TESTE 29-029;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;Taguatinga;;Brasília;DF;2021-02-16;Mariana Alves
+129030;Distribuidora Vale do Alvorada - TESTE 29-030;04.711.671/9022-94;(61) 3354-2940;contato@distribuidor.com.br;Taguatinga;;Brasília;DF;18/07/2025;Juliana Costa
+129031;Comercial Duas Palmeiras - TESTE 29-031;17.464.887/7190-65;61 3356-1423;contato@comercialdua.com.br;Taguatinga Sul;;Brasília;DF;Apr 3, 2025;Pedro Santos
+129032;Mercado Bom Preço DF - TESTE 29-032;20.163.287/0831-72;+55 61 99702-6198;contato@mercadobompr.com.br;guara ii;72130-010;Brasília;DF;25/08/2025;Carlos Lima
+129033;Empório Vale Verde - TESTE 29-033;69.784.801/8451-46;(61) 98433-1053;contato@empóriovalev.com.br;TAGUATINGA;71929-000;Brasília;DF;Dec 24, 2023;Ana Souza
+129034;Loja de Utilidades Girassol - TESTE 29-034;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Águas Claras;;Brasília;DF;25-01-2022;Juliana Costa
+129035;Mercadinho Sem Endereço Completo - TESTE 29-035;82.675.869/2617-96;61914391105;contato@semendereco.com.br;;;Brasília;DF;2022-06-23;Ana Souza
+129036;Bazar Sol Nascente - TESTE 29-036;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Águas Claras;71901-010;Brasília;DF;nov 19, 2021;Juliana Costa
+129037;Comercial Serra Azul - TESTE 29-037;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Águas Claras Sul;71900-100;Brasília;DF;03-05-2022;Pedro Santos
+129038;Depósito São Roque - TESTE 29-038;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;Taguatinga Norte;;Brasília;DF;02-05-2023;Ana Souza
+129039;Comercial Passo Firme - TESTE 29-039;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Águas Claras Norte;71906-500;Brasília;DF;06/02/2024;Ana Souza
+129040;Casa de Carnes Ouro Fino - TESTE 29-040;93.406.088/3561-59;61999038359;contato@casadecarnes.com.br;Taguatinga Sul;123;Brasília;DF;Feb 28, 2023;Juliana Costa
+129041;Bazar Flor de Lis - TESTE 29-041;48951343320037;61 3970-2193;email_invalido;Taguatinga Norte;;Brasília;DF;2025-07-15;Mariana Alves
+129042;Comercial Passo Firme - TESTE 29-042;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Águas Claras Norte;71906-500;Brasília;DF;06/02/2024;Juliana Costa
+129043;Distribuidora Popular Centro-Oeste - TESTE 29-043;83.930.103/1051-83;61999788677;contato@distribuidor.com.br;aguas claras;;Brasília;DF;2025-04-16;Mariana Alves
+129044;Bazar Estrela Dourada - TESTE 29-044;31.165.667/0106-51;(61) 94139-4116;contato@bazarestrela.com.br;Vicente Pires;72006-400;Brasília;DF;Aug 18, 2022;Mariana Alves
+129045;Depósito Cerrado Sul - TESTE 29-045;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Vicente Pires;71900-100;Brasília;DF;2022-07-24;Ana Souza
+129046;Distribuidora Horizonte Azul - TESTE 29-046;58.867.533/9636-05;12345;contato@distribuidor.com.br;Águas Claras;00000-000;Brasília;DF;22-11-2022;Carlos Lima
+129047;Mercado Cantinho do Sabor - TESTE 29-047;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Aguas Claras - DF;71950-000;Brasília;DF;2023-09-15;Mariana Alves
+129048;Depósito Cerrado Sul - TESTE 29-048;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Taguatinga Norte;71900-100;Brasília;DF;2022-07-24;Carlos Lima
+129049;Papelaria Horizonte - TESTE 29-049;34.309.805/0097-88;(61) 91931-9320;contato@papelariahor.com.br;Taguatinga Sul;71950-000;Brasília;DF;03/03/2021;Juliana Costa
+129050;Comercial Rio Bonito - TESTE 29-050;69.232.260/2563-42;(61) 3491-1634;contato@comercialrio.com.br;Águas Claras;71926-750;Brasília;DF;2022-08-28;Carlos Lima
+129051;Comercial Passo Firme - TESTE 29-051;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Águas Claras Norte;71906-500;Brasília;DF;06/02/2024;Carlos Lima
+129052;Mercadinho Nossa Senhora - TESTE 29-052;07.154.516/8087-60;(61) 99494-6927;contato@mercadinhono.com.br;TAGUATINGA;72130-010;Brasília;DF;2024-08-20;Mariana Alves
+129053;Casa da Limpeza Total - TESTE 29-053;87.769.453/1473-79;61 3784-7209;contato@casadalimpez.com.br;Taguatinga Sul;;Brasília;DF;data_invalida;Ana Souza
+129054;Mercadinho Recanto Feliz - TESTE 29-054;49190586518506;+55 61 92729-8102;contato@mercadinhore.com.br;Guará;;Brasília;DF;2024-11-12;Juliana Costa

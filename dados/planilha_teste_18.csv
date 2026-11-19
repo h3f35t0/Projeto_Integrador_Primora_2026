@@ -1,0 +1,27 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+118001;Ferragens União - TESTE 18-001;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Vicente Pires;72006-400;Brasília;DF;2022-07-09;Ana Souza
+118002;Armazém Fazendinha - TESTE 18-002;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Águas Claras Sul;71900-000;Brasília;DF;2022-12-25;Juliana Costa
+118003;Depósito Cerrado Sul - TESTE 18-003;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Taguatinga Norte;71900-100;Brasília;DF;2022-07-24;Pedro Santos
+118004;Mercado Cantinho do Sabor - TESTE 18-004;79.911.838/4251-35;61931172421;contato@mercadocanti.com.br;Águas Claras;71950-000;Brasília;DF;2023-09-15;Juliana Costa
+118005;Loja de Utilidades Girassol - TESTE 18-005;37.556.464/1708-05;(61) 92124-1659;contato@lojadeutilid.com.br;Águas Claras Norte;123;Brasília;DF;25-01-2022;Carlos Lima
+118006;Depósito São Roque - TESTE 18-006;27868011280598;(61) 98041-3088;contato@depósitosãor.com.br;aguas claras;;Brasília;DF;02-05-2023;Pedro Santos
+118007;Comercial Serra Azul - TESTE 18-007;49.480.831/3678-37;+55 61 98342-1282;contato@comercialser.com.br;Guará;71900-100;Brasília;DF;03-05-2022;Pedro Santos
+118008;Casa de Carnes Ouro Fino - TESTE 18-008;93.406.088/3561-59;61999038359;email_invalido;Taguatinga Norte;72110-800;Brasília;DF;Feb 28, 2023;Mariana Alves
+118009;Loja Bom Retiro - TESTE 18-009;03.447.134/9361-83;(61) 95352-3330;contato@lojabomretir.com.br;Guará II;72110-800;Brasília;DF;03-01-2022;Carlos Lima
+118010;Mercearia Central DF - TESTE 18-010;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;;71950-000;Brasília;DF;Feb 18, 2022;Mariana Alves
+118011;Mercearia Dois Irmãos - TESTE 18-011;89.325.288/0957-01;61951273847;contato@merceariadoi.com.br;Taguatinga/DF;00000-000;Brasília;DF;08-01-2022;Carlos Lima
+118012;Armazém Planalto - TESTE 18-012;82.366.299/4680-44;(61) 98043-6279;contato@armazémplana.com.br;TAGUATINGA;72006-530;Brasília;DF;15-08-2024;Pedro Santos
+118013;Casa das Bebidas Real - TESTE 18-013;02.787.429/6717-56;61953091709;contato@casadasbebid.com.br;Vicente Pires;71925-000;Brasília;DF;2022-02-22;Ana Souza
+118014;Armazém Fazendinha - TESTE 18-014;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Taguatinga;71900-000;Brasília;DF;2022-12-25;Pedro Santos
+118015;Ferragens União - TESTE 18-015;123456;61942035886;contato@ferragensuni.com.br;Águas Claras Norte;72006-400;Brasília;DF;2022-07-09;Ana Souza
+118016;Mercearia Central DF - TESTE 18-016;74.964.990/9133-41;(61) 94929-3847;contato@merceariacen.com.br;aguas claras;71950-000;Brasília;DF;Feb 18, 2022;Carlos Lima
+118017;Armazém Fazendinha - TESTE 18-017;85.685.574/4431-35;(61) 3860-9779;contato@armazémfazen.com.br;Águas Claras Sul;71900-000;Brasília;DF;2022-12-25;Mariana Alves
+118018;Distribuidora Cerrado Norte - TESTE 18-018;77.434.873/4714-34;61952910691;contato@distribuidor.com.br;;72140-010;Brasília;DF;18/02/2022;Pedro Santos
+118019;Empório Chão Vermelho - TESTE 18-019;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;guara ii;72006-530;Brasília;DF;27/10/2025;Pedro Santos
+118020;Minimercado Vitória Régia - TESTE 18-020;36541458685014;(61) 95349-1626;contato@minimercadov.com.br;Vicente Pires - DF;72006-400;Brasília;DF;2024-10-04;Mariana Alves
+118021;Loja Multi Utilidades - TESTE 18-021;47.451.712/3685-16;(61) 3370-9791;email_invalido;Guará I;71900-100;Brasília;DF;04/08/2023;Carlos Lima
+118022;Supermercado Nova Aliança - TESTE 18-022;10.801.326/7736-02;+55 61 91035-7396;contato@supermercado.com.br;Taguatinga;71926-750;Brasília;DF;2023-08-09;Pedro Santos
+118023;Armazém Boa Colheita - TESTE 18-023;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;Águas Claras Sul;;Brasília;DF;2021-02-16;Juliana Costa
+118024;Ferragens União - TESTE 18-024;93.990.916/9985-43;61942035886;contato@ferragensuni.com.br;Guará;72006-400;Brasília;DF;2022-07-09;Ana Souza
+118025;Bazar Nova Esperança - TESTE 18-025;34.352.408/2400-84;(61) 99042-2680;email_invalido;Guará II;71901-010;Brasília;DF;2025-01-28;Mariana Alves
+118026;Armarinhos Silva & Cia - TESTE 18-026;42.388.496/9653-28;+55 61 92489-1771;contato@armarinhossi.com.br;Vicente Pires;72140-010;Brasília;DF;28/02/2022;Pedro Santos

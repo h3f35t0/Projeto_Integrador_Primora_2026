@@ -1,0 +1,12 @@
+id_cliente;razao_social;cnpj;telefone;email;bairro_informado;cep;cidade;uf;data_cadastro;vendedor_responsavel
+CLI0037;Armarinhos Ponto Certo;10.932.480/8613-17;(61) 3763-3522;contato@armarinhospo.com.br;Guará;71929-000;Brasília;DF;Dec 16, 2023;Diego Martins
+CLI0038;Empório Chão Vermelho;78.263.982/1465-84;(61) 3389-5891;contato@empóriochãov.com.br;Taguatinga;72006-530;Brasília;DF;27/10/2025;Juliana Reis
+CLI0039;Distribuidora Horizonte Azul;58.867.533/9636-05;+55 61 97246-7325;contato@distribuidor.com.br;Vicente Pires;00000-000;Brasília;DF;22-11-2022;Juliana Reis
+CLI0040;Casa de Materiais Rocha;71.870.262/1745-96;(61) 3972-6383;contato@casademateri.com.br;Águas Claras;00000-000;Brasília;DF;2025-11-28;Juliana Reis
+CLI0041;Mercado Popular Central;13.431.611/7240-05;(61) 3400-6873;contato@mercadopopul.com.br;Norte (Aguas Claras);71901-010;Brasília;DF;2022-07-12;Camila Torres
+CLI0042;Comercial Passo Firme;19693792374740;+55 61 95712-9955;contato@comercialpas.com.br;Águas Claras Norte;71906-500;Brasília;DF;06/02/2024;Bruno Almeida
+CLI0043;Bazar Sol Nascente;43.671.369/5944-06;61911086890;contato@bazarsolnasc.com.br;Águas Claras Norte;71901-010;Brasília;DF;nov 19, 2021;Diego Martins
+CLI0044;Depósito Cerrado Sul;53394210470952;(61) 3402-6352;contato@depósitocerr.com.br;Águas Claras/DF;71900-100;Brasília;DF;2022-07-24;Camila Torres
+CLI0045;Loja Multi Utilidades;47.451.712/3685-16;(61) 3370-9791;contato@lojamultiuti.com.br;Aguas claras;71900-100;Brasília;DF;04/08/2023;Bruno Almeida
+CLI0046;Armazém Boa Colheita;37.098.593/1746-12;(61) 3138-5986;contato@armazémboaco.com.br;Guará II;;Brasília;DF;2021-02-16;Camila Torres
+CLI0047;Mercadinho Sem Endereço Completo;82.675.869/2617-96;61914391105;contato@semendereco.com.br;;;Brasília;DF;2022-06-23;Juliana Reis
